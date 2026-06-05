@@ -1,2 +1,2 @@
 # logogame
-this is a logo guessing game which i created along
+this is a logo guessing game for sem 2 sdf project
